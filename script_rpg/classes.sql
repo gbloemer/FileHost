@@ -60,7 +60,7 @@ insert into classe values (41, 'Alquimista', 0, 0, 0, 20, 15, 15, 0, 0, 175, 75,
 insert into classe values (43, 'Meio Celestial', 0, 10, 0, 10, 0, 20, 0, 0, 100, 200, null, 0, 0, 0, 0, 10, 0);
 insert into classe values (44, 'Celestial', 0, 20, 0, 20, 0, 40, 0, 0, 200, 400, 43, 0, 1, 0, 0, 20, 0);
 
-insert into classe values (45, 'Elementalista Vento', 0, 0, 0, 0, 0, 0, 0, 30, 250, 50, 19, 0, 0, 0, 1, 30, 0);
+insert into classe values (45, 'Elementalista de Vento', 0, 0, 0, 0, 0, 0, 0, 30, 250, 50, 19, 0, 0, 0, 1, 30, 0);
 
 insert into classe values (46, 'Paladino', 0, 20, 0, 0, 30, 30, 0, 0, 550, 200, 25, 0, 0, 0, 1, 20, 0);
 insert into classe values (47, 'Mestre Lanceiro', 0, 0, 30, 0, 0, 0, 0, 50, 450, 300, 21, 0, 0, 0, 1, 20, 0);
@@ -88,7 +88,7 @@ insert into classe values (70, 'Lacaio de Sangue', 0, 10, 0, 10, 0, 0, 0, 10, 90
 insert into classe values (71, 'Conde das Sombras', 0, 20, 0, 20, 0, 0, 0, 20, 175, 175, 70, 0, 0, 0, 0, 20, 0);
 insert into classe values (72, 'Imperador das Trevas', 0, 30, 0, 30, 0, 0, 0, 30, 350, 350, 71, 0, 0, 0, 0, 30, 0);
 
-insert into classe values (75, 'Trovador/Dançarino', 0, 0, 0, 0, 0, 0, 0, 0, 80, 170, 4, 0, 0, 0, 0, 50, 0);
+insert into classe values (75, 'Trovador/Dancarino', 0, 0, 0, 0, 0, 0, 0, 0, 80, 170, 4, 0, 0, 0, 0, 50, 0);
 insert into classe values (76, 'Bardo/Encantador', 0, 0, 0, 0, 0, 0, 0, 0, 250, 500, 75, 0, 0, 0, 0, 100, 0);
 
 insert into classe values (79, 'Lorde celestial', 0, 30, 0, 30, 0, 60, 0, 0, 300, 700, 44, 0, 0, 0, 0, 30, 0);
