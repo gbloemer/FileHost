@@ -93,5 +93,11 @@ insert into classe values (76, 'Bardo/Encantador', 0, 0, 0, 0, 0, 0, 0, 0, 250, 
 
 insert into classe values (79, 'Lorde celestial', 0, 30, 0, 30, 0, 60, 0, 0, 300, 700, 44, 0, 0, 0, 0, 30, 0);
 
+insert into classe values (90, 'Arquidruida', 30, 0, 0, 40, 0, 0, 0, 30, 375, 375, 22, 0,0,0,0, 0, 0);
+
 insert into classe values(500, 'Wyvern', 5, 40, 35, 5, 35, 20, 0, 20, 750, 200, null, 0, 0, 0, 0, 10, 0);
 insert into classe values(501, 'Dragao Platinado', 50, 80, 100, 50, 120, 120, 50, 80, 2500, 2000, null, 0, 0, 0, 0, 80, 0);
+
+insert into classe values(700, 'Senhor das Chamas/Necromante',0,0,0,0,0,0,0,30,190,560,60,0,0,0,0,80,0);
+insert into classe values(701, 'Mestre Ferreiro/Arquidruida',32,0,0,20,0,0,0,65,512,337,54,0,0,0,0,0,0);
+insert into classe values(702, 'Mestre/Gladiador do continuum',20,40,0,40,0,0,0,20,425,425,20,0,0,0,0,0,0);
