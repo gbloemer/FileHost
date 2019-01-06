@@ -95,6 +95,10 @@ insert into classe values (79, 'Lorde celestial', 0, 30, 0, 30, 0, 60, 0, 0, 300
 
 insert into classe values (90, 'Arquidruida', 30, 0, 0, 40, 0, 0, 0, 30, 375, 375, 22, 0,0,0,0, 0, 0);
 
+insert into classe values (100, 'Tribalista', 0, 0, 0, 0, 15, 30, 0, 0, 30, 70, null, 0, 0, 0, 0, 15, 0);
+insert into classe values (101, 'Ritualista', 0, 0, 0, 0, 20, 80, 0, 0, 60, 140, 100, 0, 0, 0, 0, 20, 0);
+insert into classe values (102, 'Shaman', 0, 0, 0, 0, 40, 100, 0, 0, 60, 140, 101, 0, 0, 0, 0, 40, 0);
+
 insert into classe values(500, 'Wyvern', 5, 40, 35, 5, 35, 20, 0, 20, 750, 200, null, 0, 0, 0, 0, 10, 0);
 insert into classe values(501, 'Dragao Platinado', 50, 80, 100, 50, 120, 120, 50, 80, 2500, 2000, null, 0, 0, 0, 0, 80, 0);
 insert into classe values(502, 'Cao Abissal', 0, 0, 180, 0, 60, 60, 0, 120, 150, 100, null, 0, 0, 0, 0, 30, 0);
