@@ -99,7 +99,6 @@ insert into classe values (100, 'Tribalista', 0, 0, 0, 0, 15, 30, 0, 0, 30, 70, 
 insert into classe values (101, 'Ritualista', 0, 0, 0, 0, 20, 80, 0, 0, 60, 140, 100, 0, 0, 0, 0, 20, 0);
 insert into classe values (102, 'Shaman', 0, 0, 0, 0, 40, 100, 0, 0, 60, 140, 101, 0, 0, 0, 0, 40, 0);
 
-codigo,nome,destreza,forca,agilidade,inteligencia,constituicao,espirito,vigor,pericia,hp_nivel,mp_nivel,classe_ant,des_primario,for_primario,agi_primario,int_primario,sabedoria,att_extra
 insert into classe values (110, 'Barbaro', 0, 25, 0, 0, 25, 0, 0, 0, 250, 0, 34, 0, 0, 0, 0, 0, 0);
 
 insert into classe values(500, 'Wyvern', 5, 40, 35, 5, 35, 20, 0, 20, 750, 200, null, 0, 0, 0, 0, 10, 0);
