@@ -115,3 +115,4 @@ insert into classe values(800, 'Crinus',30,50,0,0,70,0,0,0,900,100,13,0,0,0,0,0,
 insert into classe values(801, 'Crinus/Mestre Ninja',30,25,15,0,35,0,0,0,650,400,13,0,0,0,0,20,0);
 insert into classe values(802, 'Pierro',20,20,20,20,20,20,0,10,500,500,33,0,0,0,0,20,0);
 insert into classe values(803, 'Atirador/Mestre do ar',42,12,12,0,5,7,0,0,367,215,9,0,0,0,0,30,0);
+insert into classe values (804, 'Vigarista', 20, 0, 40, 0, 0, 0, 0, 0, 350, 400, 40, 0, 0, 0, 0, 40, 0);
