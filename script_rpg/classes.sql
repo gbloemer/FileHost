@@ -100,6 +100,7 @@ insert into classe values (101, 'Ritualista', 0, 0, 0, 0, 20, 80, 0, 0, 60, 140,
 insert into classe values (102, 'Shaman', 0, 0, 0, 0, 40, 100, 0, 0, 60, 140, 101, 0, 0, 0, 0, 40, 0);
 
 insert into classe values (110, 'Barbaro', 0, 25, 0, 0, 25, 0, 0, 0, 250, 0, 34, 0, 0, 0, 0, 0, 0);
+insert into classe values (111, 'Colosso', 0, 50, 0, 0, 50, 0, 0, 0, 750, 0, 110, 0, 0, 0, 0, 0, 0);
 
 insert into classe values(500, 'Wyvern', 20, 40, 35, 5, 35, 20, 0, 20, 750, 200, null, 0, 0, 0, 0, 10, 0);
 insert into classe values(501, 'Dragao Platinado', 80, 80, 100, 50, 120, 120, 50, 80, 2500, 2000, null, 0, 0, 0, 0, 80, 0);
@@ -108,3 +109,9 @@ insert into classe values(502, 'Cao Abissal', 120, 0, 180, 0, 60, 60, 0, 120, 15
 insert into classe values(700, 'Senhor das Chamas/Necromante',30,0,0,0,0,0,0,30,190,560,60,0,0,0,0,80,0);
 insert into classe values(701, 'Mestre Ferreiro/Arquidruida',65,17,0,20,0,0,0,65,512,337,54,0,0,0,0,0,0);
 insert into classe values(702, 'Mestre/Gladiador do continuum',20,60,0,40,0,0,0,20,425,425,20,0,0,0,0,0,0);
+
+--codigo,nome,destreza,forca,agilidade,inteligencia,constituicao,espirito,vigor,pericia,hp_nivel,mp_nivel,classe_ant,des_primario,for_primario,agi_primario,int_primario,sabedoria,att_extra
+insert into classe values(800, 'Crinus',30,50,0,0,70,0,0,0,900,100,13,0,0,0,0,0,0);
+insert into classe values(801, 'Crinus/Mestre Ninja',30,25,15,0,35,0,0,0,650,400,13,0,0,0,0,20,0);
+insert into classe values(802, 'Pierro',20,20,20,20,20,20,0,10,500,500,33,0,0,0,0,20,0);
+insert into classe values(803, 'Atirador/Mestre do ar',42,12,12,0,5,7,0,0,367,215,9,0,0,0,0,30,0);
